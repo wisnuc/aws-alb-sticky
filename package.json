@@ -1,0 +1,24 @@
+{
+  "name": "aws-alb-sticky",
+  "version": "1.0.0",
+  "description": "tests for aws application load balancer sticy session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisnuc/aws-alb-sticky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wisnuc/aws-alb-sticky/issues"
+  },
+  "homepage": "https://github.com/wisnuc/aws-alb-sticky#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "dateformat": "^3.0.3",
+    "express": "^4.16.3"
+  }
+}
